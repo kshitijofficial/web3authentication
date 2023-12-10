@@ -1,0 +1,25 @@
+/* StoreData.css */
+.store-data-container {
+    margin-top: 50px;
+    width:400px;
+  }
+  
+  .input-field {
+    display:inline;
+    
+  }
+  #inputData{
+    margin:6px;
+    width:100px;
+    padding-top:3px;
+    padding-bottom:3px;
+    text-align: center
+  }
+  .store-btn {
+    font-size:16px;
+    display:inline;
+    padding:2px;
+    margin-left:10px;
+  }
+  /* Additional styling as needed */
+  
