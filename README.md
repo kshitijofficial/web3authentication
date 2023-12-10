@@ -10,7 +10,7 @@ This project aims to facilitate authentication through Web3 and streamline user 
 
 1. **Clone the Repository:** 
    ```bash
-   git clone [repository URL](https://github.com/kshitijofficial/web3authentication.git)
+   git clone https://github.com/kshitijofficial/web3authentication.git
    ```
 
 2. **Navigate to Client Directory:**
